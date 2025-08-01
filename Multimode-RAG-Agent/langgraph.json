@@ -1,0 +1,10 @@
+{
+    "graphs": {
+      "RAG_research": "./rag_agent.py:rag_agent"
+    },
+    "python_version": "3.11",
+    "env": "./.env",
+    "dependencies": [
+      "."
+    ]
+}

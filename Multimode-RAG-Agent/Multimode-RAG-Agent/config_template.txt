@@ -1,0 +1,15 @@
+# Environment Variables Configuration Template
+# Copy this content to a .env file in the same directory
+
+# OpenAI API Configuration
+OPENAI_API_KEY=your-openai-api-key-here
+
+# LangGraph/LangSmith Configuration (for chat UI)
+LANGGRAPH_API_URL=your-langgraph-api-url-here
+LANGSMITH_API_KEY=your-langsmith-api-key-here
+
+# Instructions:
+# 1. Create a .env file in this directory
+# 2. Copy the above content to the .env file
+# 3. Replace the placeholder values with your actual API keys
+# 4. The .env file is already in .gitignore and won't be committed
